@@ -19,4 +19,4 @@ A vehicle is developed with Simple hardware architecture using Arduino, HC-05 an
 -> It's easy to control and efficient low-cost design.
 
 
-**NOTE: Code and Detailed description of the Project are provided in the porject document.
+**NOTE: Code and Detailed description of the Project are provided in the project document.
